@@ -255,4 +255,4 @@ This repository serves as the official landing page for ProShow. The software is
 **Get the most recent version of ProShow today!**
 
 ---
-**Last updated:** 2026-10-04 22:51:03 UTC
+**Last updated:** 2026-10-05 01:42:10 UTC
